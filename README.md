@@ -10,6 +10,7 @@ My top candidates are below, with price and timestamp now.
 
 ## Wonky Frog
 
-https://dexscreener.com/solana/gwm41kcnthc7zwmvej1vjpv8xev1v54yrnuiphtheqz8
+[Dexscreener link](https://dexscreener.com/solana/gwm41kcnthc7zwmvej1vjpv8xev1v54yrnuiphtheqz8)
 
-price 0.008887 at 11:06am PST on 121724
+- price 0.008887 
+- as of 11:06am PST on 121724
