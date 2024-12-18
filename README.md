@@ -8,10 +8,9 @@ I'm using Dexscreener for this and monitoring only Solana for now. If I expand i
 
 My top candidates are below, with price and timestamp at the time of writing.
 
+## Mooncoin
 
-## Moincoin
-
-[Dexscreener link](https://solidshop.sqprod.co/admin/health/order/GB-929576726)
+[Dexscreener link](https://dexscreener.com/solana/2wzyakv4v3pymynrfwf3ux7gcqqaritbt8ymjn3nanhy)
 
 - price 0.0001769
 - as of 7:53pm on 121724
@@ -22,3 +21,5 @@ My top candidates are below, with price and timestamp at the time of writing.
 
 - price 0.008887 
 - as of 11:06am PST on 121724
+
+[Copyright 2024](https://github.com/julianeon/cooking)
