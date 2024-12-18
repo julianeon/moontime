@@ -14,6 +14,7 @@ My top candidates are below, with price and timestamp at the time of writing.
 
 - price 0.0001769
 - as of 7:53pm on 121724
+- update: as of 8:17pm on 121724 this has doubled
 
 ## Wonky Frog
 
@@ -21,5 +22,6 @@ My top candidates are below, with price and timestamp at the time of writing.
 
 - price 0.008887 
 - as of 11:06am PST on 121724
+- update: this went up 20% approximately, then crashed
 
 [Copyright 2024](https://github.com/julianeon/cooking)
