@@ -8,6 +8,14 @@ I'm using Dexscreener for this and monitoring only Solana for now. If I expand i
 
 My top candidates are below, with price and timestamp at the time of writing.
 
+
+## Moincoin
+
+[Dexscreener link](https://solidshop.sqprod.co/admin/health/order/GB-929576726)
+
+- price 0.0001769
+- as of 7:53pm on 121724
+
 ## Wonky Frog
 
 [Dexscreener link](https://dexscreener.com/solana/gwm41kcnthc7zwmvej1vjpv8xev1v54yrnuiphtheqz8)
