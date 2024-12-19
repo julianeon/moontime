@@ -1,8 +1,3 @@
-
-## Setup Guide
-
-See [setup.md](link).
-
 ## 121924
 
 ### Chillpepe
@@ -15,13 +10,9 @@ See [setup.md](link).
 
 ## About
 
-I'm going to list coins I think are worth watching here.
+This repo is for memecoins that are worth watching.
 
-For now the goal is: catch them early. It's a game. 
-
-Can we find coins debuting on Dexscreener that would make a profit, if I bought them at the time cited? Let's find out.
-
-I'm using Dexscreener for this and monitoring Solana. My top candidates are shown with prices, timestamps and updates.
+See the [setup guide](setup.md) to get started.
 
 ## Past
 
