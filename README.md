@@ -40,11 +40,11 @@ You should be able to send Solana (crypto) from Coinbase to your browser wallet.
 
 Find a new Solana token on Dexscreener, like Mooncoin.
 
-### Buy the token
+#### Buy the token
 
 Buy the token as or before it starts shooting up.
 
-### Sell the token
+#### Sell the token
 
 Sell the token before the price crashes.
 
