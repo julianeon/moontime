@@ -14,8 +14,4 @@ This repo is for memecoins that are worth watching.
 
 See the [setup guide](setup.md) to get started.
 
-## Past
-
-See [archive](past_121724.md).
-
 [Copyright 2024](https://github.com/julianeon/cooking)

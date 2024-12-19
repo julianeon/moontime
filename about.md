@@ -10,4 +10,8 @@ Can we find coins debuting on Dexscreener that would make a profit, if I bought 
 
 I'm using Dexscreener for this and monitoring Solana. My top candidates are shown with prices, timestamps and updates.
 
+## Past
+
+See [archive](past_121724.md).
+
 [Copyright 2024](https://github.com/julianeon/cooking)
