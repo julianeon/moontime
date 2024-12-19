@@ -48,31 +48,3 @@ Buy the token as or before it starts shooting up.
 
 Sell the token before the price crashes.
 
-## 121924
-
-### Chillpepe
-
-[Dexscreener](https://dexscreener.com/solana/8mtb8tpndjuvxfrpbee1sm28kmacvjtsv8fvmtxacgnx)
-
-- price 0.00009987
-- as of 12:08pm on 121924
-
-## 121724
-
-### Mooncoin
-
-[Dexscreener link](https://dexscreener.com/solana/2wzyakv4v3pymynrfwf3ux7gcqqaritbt8ymjn3nanhy)
-
-- price 0.0001769
-- as of 7:53pm on 121724
-- update: as of 8:17pm on 121724 this has doubled
-
-### Wonky Frog
-
-[Dexscreener link](https://dexscreener.com/solana/gwm41kcnthc7zwmvej1vjpv8xev1v54yrnuiphtheqz8)
-
-- price 0.008887 
-- as of 11:06am PST on 121724
-- update: this went up 20% approximately, then crashed
-
-[Copyright 2024](https://github.com/julianeon/cooking)
