@@ -10,6 +10,6 @@
 
 ## About
 
-See the [setup guide](setup.md) to get started, and the [archive](about.md) for more predictions.
+See the [setup guide](setup.md) to get started, and the [archive](about.md) for past predictions.
 
 [Copyright 2024](https://github.com/julianeon/cooking)
