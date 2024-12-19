@@ -54,6 +54,9 @@ Sell the token before the price crashes.
 
 [Dexscreener](https://dexscreener.com/solana/8mtb8tpndjuvxfrpbee1sm28kmacvjtsv8fvmtxacgnx)
 
+- price 0.00009987
+- as of 12:08pm on 121924
+
 ## 121724
 
 ### Mooncoin
