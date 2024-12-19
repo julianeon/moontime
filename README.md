@@ -1,12 +1,3 @@
-# moontime
-
-I'm going to list coins I think are worth watching here.
-
-For now the goal is: catch them early. It's a game. 
-
-Can we find coins debuting on Dexscreener that would make a profit, if I bought them at the time cited? Let's find out.
-
-I'm using Dexscreener for this and monitoring Solana. My top candidates are shown with prices, timestamps and updates.
 
 ## Setup Guide
 
@@ -22,22 +13,18 @@ See [setup.md](link).
 - time: 12:08pm on 121924
 - update: calling this dead, it was in the 0.000400's last I checked; a miss  
 
-## 121724
+## About
 
-### Mooncoin
+I'm going to list coins I think are worth watching here.
 
-[Dexscreener link](https://dexscreener.com/solana/2wzyakv4v3pymynrfwf3ux7gcqqaritbt8ymjn3nanhy)
+For now the goal is: catch them early. It's a game. 
 
-- price 0.0001769
-- time: 7:53pm on 121724
-- update: this doubled by 8:17pm on 121724 
+Can we find coins debuting on Dexscreener that would make a profit, if I bought them at the time cited? Let's find out.
 
-### Wonky Frog
+I'm using Dexscreener for this and monitoring Solana. My top candidates are shown with prices, timestamps and updates.
 
-[Dexscreener link](https://dexscreener.com/solana/gwm41kcnthc7zwmvej1vjpv8xev1v54yrnuiphtheqz8)
+## Past
 
-- price 0.008887 
-- time: 11:06am PST on 121724
-- update: this went up 20% approximately, then crashed
+See [archive](past_121724.md).
 
 [Copyright 2024](https://github.com/julianeon/cooking)
