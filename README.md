@@ -2,9 +2,11 @@
 
 I'm going to list coins I think are worth watching here.
 
-For now the goal is very simple: catch them early. It's like a game. Can we find coins debuting on Dexscreener that would make a profit, if I bought them at the time cited? Let's find out.
+For now the goal is: catch them early. It's a game. 
 
-I'm using Dexscreener for this and monitoring only Solana for now. My top candidates are below, with price and timestamp at the time of writing.
+Can we find coins debuting on Dexscreener that would make a profit, if I bought them at the time cited? Let's find out.
+
+I'm using Dexscreener for this and monitoring Solana. My top candidates are shown with prices, timestamps and updates.
 
 ## Setup Guide
 
