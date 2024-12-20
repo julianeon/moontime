@@ -10,7 +10,7 @@ Can we find coins debuting on Dexscreener that would make a profit, if I bought 
 
 I'm using Dexscreener for this and monitoring Solana. My top candidates are shown with prices, timestamps and updates.
 
-## Past
+## Past Predictions
 
 See the [Archive](archive.md).
 
