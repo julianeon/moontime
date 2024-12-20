@@ -4,7 +4,7 @@
 
 Searching.
 
-## About
+## Background
 
 See [setup](setup.md) or [about](about.md) for more info.
 
