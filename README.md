@@ -1,5 +1,11 @@
 ## 122024
 
+### Notes
+
+Interesting that XRP has its own ledger too: I'll consider that for the future.
+
+Looks like, at random times, I can go online, see things taking off, and consider buying.
+
 ### Unicorn Pepe Dust
 
 - [Dexscreener](https://dexscreener.com/solana/e2sj2mzauz1vahb6sivfeg7uap6ogvrdctvmqmpq84eu)
