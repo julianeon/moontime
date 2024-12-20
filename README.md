@@ -16,6 +16,10 @@
 
 ## About
 
-See the [setup guide](setup.md) to get started, and the [archive](about.md) for past predictions.
+See the [setup guide](setup.md) to get started.
+
+See the [Archive](archive.md) for past predictions.
+
+See the [About](about.md) page for general info.
 
 [Copyright 2024](https://github.com/julianeon/cooking)
