@@ -12,6 +12,6 @@ I'm using Dexscreener for this and monitoring Solana. My top candidates are show
 
 ## Past
 
-See [archive](past_121724.md).
+See [archive](archive.md).
 
 [Copyright 2024](https://github.com/julianeon/cooking)
