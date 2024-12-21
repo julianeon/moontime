@@ -1,3 +1,7 @@
+# Memecoin Winners
+
+[dexscreener.com/new-pairs/solana](https://dexscreener.com/new-pairs/solana)
+
 ## 122024
 
 ### Notes

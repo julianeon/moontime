@@ -2,6 +2,8 @@
 
 This repo is for memecoins that are worth watching.
 
+[dexscreener.com/new-pairs/solana](https://dexscreener.com/new-pairs/solana)
+
 See the [setup guide](setup.md) to get started.
 
 For now the goal is: catch them early. It's a game. 
